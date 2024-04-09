@@ -53,3 +53,7 @@ npm run dev
 ```
 python manage.py startapp <app_name>
 ```
+## Update the packages in React
+```
+npm update
+```
