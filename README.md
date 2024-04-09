@@ -49,3 +49,7 @@ pip freeze > requirements.txt
 ```
 npm run dev
 ```
+## Create new Django App
+```
+python manage.py startapp <app_name>
+```
