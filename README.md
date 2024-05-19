@@ -57,3 +57,9 @@ python manage.py startapp <app_name>
 ```
 npm update
 ```
+## Generating requirements.txt
+```
+pip install pipreqs
+```
+
+
