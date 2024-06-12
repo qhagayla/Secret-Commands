@@ -61,5 +61,10 @@ npm update
 ```
 pip install pipreqs
 ```
+## Magic Codes
+```
+conda create --name myenv python=3.8
+```
+
 
 
