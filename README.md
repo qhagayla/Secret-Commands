@@ -71,6 +71,10 @@ conda activate myenv
 ```
 conda init
 ```
+```
+conda activate openmmlab
+```
+
 
 
 
